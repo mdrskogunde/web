@@ -127,7 +127,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 .section-title {
-  padding-bottom: 62px;
+  padding-bottom: 20px;
 }
 
 #about .section-title {
@@ -686,8 +686,8 @@ footer {
   #about,
   #gallery,
   #contact {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
 }
