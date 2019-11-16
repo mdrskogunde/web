@@ -150,7 +150,7 @@ a:hover, a:active, a:focus {
 
 .overlay {
   background: #304352;
-  opacity: 0.9;
+  opacity: 0.3;
   position: absolute;
   width: 100%;
   height: 100vh;
@@ -224,7 +224,7 @@ a:hover, a:active, a:focus {
   font-size: 28px;
   font-weight: bold;
   letter-spacing: 2px;
-  margin: 0;
+  margin: 0; 
 }
 
 .navbar-default .navbar-nav li a {
@@ -384,7 +384,7 @@ a:hover, a:active, a:focus {
   position: absolute;
   left: -120px;
   bottom: -325px;
-  padding: 12px;
+  padding: 50px;
 }
 
 #about .team-thumb {
@@ -487,9 +487,25 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
+    Google maps              
+-----------------------------------------*/
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/*---------------------------------------
     Contact section              
 -----------------------------------------*/
-
 #contact, footer {
   background: #304352;
   color: #ffffff;
@@ -535,7 +551,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-  padding-bottom: 80px;
+  padding-bottom: 10px;
 }
 
 
