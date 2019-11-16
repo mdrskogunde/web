@@ -371,10 +371,10 @@ a:hover, a:active, a:focus {
   background: #f0f0f0;
 }
 
-#about p{
+#about .year{
     font-size: 1.4em;
-    font-weight: bold;
-    color: black;
+    font-weight: 500;
+    color: dimgray;
 }
 
 #about .item {
@@ -440,7 +440,8 @@ a:hover, a:active, a:focus {
 }
 
 #about .team-thumb .description {
-  font-size: 18px;
+  font-size: 1.3em;
+    font-weight: 400;
   width: 80%;
   margin: 0 auto;
   opacity: 0;
@@ -459,13 +460,13 @@ a:hover, a:active, a:focus {
 }
 
 #about .team-thumb:hover p.description {
-  color: #ffffff;
+  color: black;
 }
 
 
 
 /*---------------------------------------
-    Galllery section              
+    Gallery section              
 -----------------------------------------*/
 
 #gallery {
