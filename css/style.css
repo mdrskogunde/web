@@ -565,7 +565,9 @@ footer {
   padding-bottom: 10px;
 }
 
-
+footer p {
+    font-size: 1em;
+}
 
 /*---------------------------------------
     Social icons style              
