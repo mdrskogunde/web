@@ -371,6 +371,12 @@ a:hover, a:active, a:focus {
   background: #f0f0f0;
 }
 
+#about p{
+    font-size: 1.4em;
+    font-weight: bold;
+    color: black;
+}
+
 #about .item {
   width: 100%;
   display: block;
@@ -421,7 +427,7 @@ a:hover, a:active, a:focus {
 }
 
 #about .team-thumb:hover {
-  background: #304352;
+  background: gold;
 }
 
 #about .team-thumb:hover .image-holder {
