@@ -23,6 +23,7 @@ html,body {
 
 html {
   font-size: 100%;
+    scroll-behavior: smooth;
 }
 
 
@@ -562,7 +563,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-  padding-bottom: 10px;
+  padding: 10px;
 }
 
 footer p {
