@@ -566,6 +566,7 @@ a:hover, a:active, a:focus {
 
 .table th, tr {
 		color: #333333;
+ 		vertical-align: middle;
 		text-align: center;
 }
 
