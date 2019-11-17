@@ -31,7 +31,7 @@ $(document).ready(function() {
  /* Home Slideshow Vegas
   -----------------------------------------------*/
   $(function() {
-    $('body').vegas({
+    $('#home').vegas({
         slides: [
             { src: 'images/slide-img1.jpg' },
             { src: 'images/slide-img2.jpg' },
