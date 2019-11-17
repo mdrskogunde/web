@@ -636,6 +636,7 @@ footer {
   background: #333333;
   color: #ffffff;
   padding: 10px;
+    margin-bottom: 0px;
 }
 
 footer p {
