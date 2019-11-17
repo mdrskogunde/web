@@ -58,6 +58,7 @@ $(document).ready(function() {
           itemsMobile : [479,1],
           autoPlay: 3000,
           wrap: true,
+          stopOnHover: true,
       });
     });
     
