@@ -662,7 +662,7 @@ footer p {
 .social-icon li a {
   border-radius: 4px;
   border: 1px solid blue;
-  background: blue;
+  background: #3b5998;
   color: #ffffff;
   font-size: 20px;
   width: 45px;
@@ -672,13 +672,6 @@ footer p {
   margin: 10px 10px 10px 10px;
   padding: 0px;
 }
-
-.social-icon li a:hover {
-  background: blue;
-  color: #ffffff;
-}
-
-
 
 /*---------------------------------------
    Back top         
