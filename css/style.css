@@ -564,7 +564,10 @@ a:hover, a:active, a:focus {
   width: 100%;
 }
 
-
+.table th, tr {
+		color: #333333;
+		text-align: center;
+}
 
 /*---------------------------------------
     Google maps              
