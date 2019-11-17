@@ -445,6 +445,7 @@ a:hover, a:active, a:focus {
 #about .item {
   width: 100%;
   display: block;
+        cursor: pointer;
 }
 
 #about .about-thumb {
