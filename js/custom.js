@@ -57,7 +57,7 @@ $(document).ready(function() {
           itemsTabletSmall: [985,2],
           itemsMobile : [479,1],
           autoPlay: 3000,
-          loop: true,
+          wrap: true,
       });
     });
     
