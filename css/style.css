@@ -564,8 +564,15 @@ a:hover, a:active, a:focus {
   width: 100%;
 }
 
-.table th, tr {
+.table th {
+		color: #e44c65;
+ 		vertical-align: middle;
+		text-align: center;
+}
+
+.table tr {
 		color: #333333;
+		font-weight: 500;
  		vertical-align: middle;
 		text-align: center;
 }
