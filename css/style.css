@@ -437,7 +437,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about {
-  background: #f0f0f0;
+ 
 }
 
 #about .year{
@@ -471,7 +471,7 @@ a:hover, a:active, a:focus {
   height: 400px;
   margin: 32px 0;
   text-align: center;
-  background: #ffffff;
+  background: #f0f0f0;
   border-radius: 4px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
