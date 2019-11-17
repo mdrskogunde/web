@@ -661,7 +661,8 @@ footer p {
 
 .social-icon li a {
   border-radius: 4px;
-  border: 1px solid #ffffff;
+  border: 1px solid blue;
+  background: blue;
   color: #ffffff;
   font-size: 20px;
   width: 45px;
