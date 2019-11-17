@@ -438,7 +438,6 @@ a:hover, a:active, a:focus {
 
 #about {
   background: #f0f0f0;
-  height: 100vh;
 }
 
 #about .year{
@@ -588,7 +587,6 @@ a:hover, a:active, a:focus {
     Contact section              
 -----------------------------------------*/
 #contact {
-  height=100vh;
   background: #333333;
   color: #ffffff;
 }
