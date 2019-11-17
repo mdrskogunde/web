@@ -491,7 +491,7 @@ a:hover, a:active, a:focus {
   transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-#about .team-thumb:hover .team-thumb:active{
+#about .team-thumb:active {
   background: gold;
 }
 
