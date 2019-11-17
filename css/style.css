@@ -141,11 +141,14 @@ a:hover, a:active, a:focus {
 }
 
 #about,
-#gallery,
-#contact {
+#gallery {
   padding-top: 20px;
   padding-bottom: 20px;
   position: relative;
+}
+
+#contact {
+    padding-top: 60px;
 }
 
 #gallery,
@@ -748,11 +751,17 @@ footer p {
   }
 
   #about,
-  #gallery,
-  #contact {
+  #gallery {
     padding-top: 20px;
     padding-bottom: 20px;
   }
+    #about .section-title {
+  padding-top: 20px;
+}
+    #contact p{
+        font-size: 1em;
+        line-height: 2em;
+    }
 
 }
 
