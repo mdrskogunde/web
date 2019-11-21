@@ -80,7 +80,7 @@ $(document).ready(function() {
 
   /* wow
   -------------------------------*/
-  new WOW({ mobile: false }).init();
+  new WOW({ mobile: true }).init();
 
   });
 
